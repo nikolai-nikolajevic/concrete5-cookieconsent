@@ -1,7 +1,4 @@
-<?php 
-
-use Loader;
-use Page;
+<?php
 
 $app = Concrete\Core\Support\Facade\Application::getFacadeApplication();
 

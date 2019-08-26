@@ -3,7 +3,6 @@ namespace Concrete\Package\Cookieconsent\Controller\SinglePage\Dashboard;
 
 use Concrete\Core\Page\Controller\DashboardPageController;
 use Concrete\Core\Support\Facade\Config;
-use Page;
 
 class Cookieconsent extends DashboardPageController
 {
