@@ -23,7 +23,7 @@ defined('C5_EXECUTE') or die("Access Denied.");
                 <?= $form->label('popup-color', t('Popup Color')); ?>
             </div>
             <div>
-                <?php $color->output('popup-color', Config::get('cookieconsent.popup-color')); ?>
+                <?php $color->output('popup-color', Config::get('cookieconsent.popup-color'), array('preferredFormat' => 'hex')); ?>
             </div>
         </div>
         <div class="form-group col-sm-6 col-md-4 col-lg-3">
@@ -31,7 +31,7 @@ defined('C5_EXECUTE') or die("Access Denied.");
                 <?= $form->label('button-color', t('Button Color')); ?>
             </div>
             <div>
-                <?php $color->output('button-color', Config::get('cookieconsent.button-color')); ?>
+                <?php $color->output('button-color', Config::get('cookieconsent.button-color'), array('preferredFormat' => 'hex')); ?>
             </div>
         </div>
         <div class="form-group col-sm-6 col-md-4 col-lg-3">
