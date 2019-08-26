@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cookieconsent 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2018-12-16T16:32:07+00:00\n"
+"PO-Revision-Date: 2018-12-16T16:32:07+00:00\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: packages/cookieconsent/controller.php:26
+#: packages/cookieconsent/controller.php:31
+msgid "Cookieconsent"
+msgstr ""
+
+#: packages/cookieconsent/single_pages/dashboard/cookieconsent.php:23
+msgid "Popup Color"
+msgstr ""
+
+#: packages/cookieconsent/single_pages/dashboard/cookieconsent.php:31
+msgid "Button Color"
+msgstr ""
+
+#: packages/cookieconsent/single_pages/dashboard/cookieconsent.php:38
+msgid "Layout"
+msgstr ""
+
+#: packages/cookieconsent/single_pages/dashboard/cookieconsent.php:48
+msgid "Position"
+msgstr ""
+
+#: packages/cookieconsent/single_pages/dashboard/cookieconsent.php:59
+msgid "Button Text"
+msgstr ""
+
+#: packages/cookieconsent/single_pages/dashboard/cookieconsent.php:63
+msgid "Link Text"
+msgstr ""
+
+#: packages/cookieconsent/single_pages/dashboard/cookieconsent.php:80
+msgid "Delete cookie and show consent"
+msgstr ""
+
+#: packages/cookieconsent/single_pages/dashboard/cookieconsent.php:73
+msgid "Text"
+msgstr ""
+
+#: packages/cookieconsent/controller.php:48
+msgid "Got it!"
+msgstr ""
+
+#: packages/cookieconsent/controller.php:49
+msgid "Learn more"
+msgstr ""
+
+#: packages/cookieconsent/controller.php:52
+msgid "This website uses cookies to ensure you get the best experience on our website."
+msgstr ""
+
